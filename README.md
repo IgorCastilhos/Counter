@@ -10,4 +10,13 @@ Autor: Igor Castilhos
 É possível testar o app pelo link: https://counter-one-rho.vercel.app/
 
 Um contador onde é possível aumentar, diminuir e reiniciar os números. O número zero será preto, se for um número acima de zero, sua cor será verde, senão, vermelho.
+
+Conceitos usados no projeto:
+
+document.querySelectorAll()<br>
+forEach()<br>
+addEventListener()<br>
+currentTarget property<br>
+classList<br>
+textContent
 ************************************************************************************************************
